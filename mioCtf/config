@@ -1,0 +1,20 @@
+## Config server
+apt-get update
+apt-get -y upgrade
+apt-get -y install apache2
+apt-get install iputils-ping
+apt-get install net-tools -y
+apt-get install apache2-utils -y
+apt -y install vim tree subversion libsvn-dev libapache2-mod-svn subversion-tools
+
+apt-get install ranger -y
+apt-get install nano -y
+apt-get install wget -y 
+apt-get install unzip -y
+#install subversion
+
+cd /tmp
+wget https://downloads.apache.org/subversion/subversion-1.14.1.zip
+
+
+
