@@ -1,6 +1,6 @@
 ### Try hack me. Year of the Dog
 
-![Screenshot from 2021-02-04 18-01-47](/assets/Screenshot%20from%202021-02-04%2018-01-47.png)
+![Screenshot from 2021-02-04 18-01-47](../assets/Screenshot%20from%202021-02-04%2018-01-47.png)
 
 
 
